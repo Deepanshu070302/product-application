@@ -5,7 +5,6 @@ import lombok.*;
 
 @Entity
 @Data // Lombok to reduce boilerplate code (optional)
-@NoArgsConstructor
 @AllArgsConstructor
 @Setter
 @Getter
